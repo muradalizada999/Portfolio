@@ -19,4 +19,4 @@ This is my personal portfolio website built with HTML, CSS.
 
 ## Live Website
 
-[View Live Site](https://muradalizada999.github.io/Portfolio/)
+[View Live Site](https://muradalizada999.github.io/Portfolio/lab7.html)
